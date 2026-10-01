@@ -37,7 +37,8 @@ Every stock is measured from a reference target shot on real film and read on la
 - **Moodboard** for collecting references before a shoot.
 - **Library** that uses your existing folders as the catalog: culling, star ratings, filters and smart views, an Organize tool that re-files photos by date, camera or rating, and copy-and-paste of an edit onto one or many selected photos. A Calendar keeps shoots, call sheets and a per-day edit meter; Send to hands a photo to Capture One, Lightroom or Photoshop.
 - **Auto Develop** meters exposure and balance for you; the Roll pass applies one consistent treatment across a whole shoot.
-- **Retouch** workspace with a Face card by part (skin with Skin Cleanup and Eye bags, outline, eyes, nose, mouth), makeup (eyeliner and lashes, Eyebrow Styles, Lip Makeup) and a heal bar.
+- **Retouch** workspace with a Face card by part (skin with Skin Cleanup and Eye bags, outline, eyes, nose, mouth), makeup (eyeliner and lashes, Eyebrow Styles, Lip Makeup) and a Heal tool with Heal, Clone and **Remove**: brush over a thing, or click an object, and the gap fills from the photo itself, with nothing leaving your computer.
+- **Lens Sharpen** puts back the detail the lens and the sensor softened, before the film goes on; six grain types, with the colour stocks carrying the grain a lab scanner reads from real film.
 - **Motion Blur** (linear, zoom, spin) with its own apply area, and **Lab Scan film frames** from real lab-scanned 35 mm negatives.
 - **Colour grading** with three-way wheels (lift, gamma and gain), a colour mixer, curves and Colour Unify, alongside live waveform, parade and vectorscope displays and automatic lens correction.
 - **Design** tools for the finished image: an editorial text designer, Instagram carousels, split panels, contact sheets and instant film prints.
