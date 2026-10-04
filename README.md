@@ -40,6 +40,7 @@ Every stock is measured from a reference target shot on real film and read on la
 - **Retouch** workspace with a Face card by part (skin with Skin Cleanup and Eye bags, outline, eyes, nose, mouth), makeup (eyeliner and lashes, Eyebrow Styles, Lip Makeup) and a Heal tool with Heal, Clone and **Remove**: brush over a thing, or click an object, and the gap fills from the photo itself, with nothing leaving your computer.
 - **Lens Sharpen** puts back the detail the lens and the sensor softened, before the film goes on; six grain types, with the colour stocks carrying the grain a lab scanner reads from real film.
 - **Motion Blur** (linear, zoom, spin) with its own apply area, and **Lab Scan film frames** from real lab-scanned 35 mm negatives.
+- **Variations** deals nine takes of your photo in a grid: click one and eight more are dealt, with the film, develop, finish and tone each lockable. **Text along a drawn shape or line**, inside or outside, above or below.
 - **Colour grading** with three-way wheels (lift, gamma and gain), a colour mixer, curves and Colour Unify, alongside live waveform, parade and vectorscope displays and automatic lens correction.
 - **Design** tools for the finished image: an editorial text designer, Instagram carousels, split panels, contact sheets and instant film prints.
 - **Mockups and books**: the photo drops into device, frame, poster, book and billboard scenes for previews, and Book Studio lays out an editable photo book for print.
