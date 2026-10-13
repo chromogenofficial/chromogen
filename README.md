@@ -44,7 +44,7 @@ Every stock is measured from a reference target shot on real film and read on la
 - **Creative effects**: VHS for still photos, Thermal false colour, Stamp Cutout and light leaks rebuilt from real scans.
 - **Variations** deals nine takes of your photo in a grid: click one and eight more are dealt, with the film, develop, finish and tone each lockable. **Text along a drawn shape or line**, inside or outside, above or below, with 17 blend modes, Fill and Knockout for text, and a **Draw** tool for marks on the photo.
 - **Colour grading** with three-way wheels (lift, gamma and gain), a colour mixer, curves and Colour Unify, alongside live waveform, parade and vectorscope displays and automatic lens correction.
-- **Design** tools for the finished image: an editorial text designer, Instagram carousels, split panels, contact sheets and instant film prints.
+- **Design** tools for the finished image: an editorial text designer, Instagram carousels, split panels, contact sheets, Editorial magazine and photo-book layouts, photo calendars and instant film prints.
 - **Mockups and books**: the photo drops into device, frame, poster, book, billboard and CD scenes for previews, and Book Studio lays out an editable photo book for print.
 - **Export** with ICC colour management (sRGB, Adobe RGB, Display P3, ProPhoto), print sizes, test strips and soft proofing. Develops render on the graphics card.
 
